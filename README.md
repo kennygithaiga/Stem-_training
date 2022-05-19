@@ -6,4 +6,4 @@ Installing python
 building a simple calculator
 #day 3
 control flow 
-building a comolex calculator
+building a complex calculator
