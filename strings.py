@@ -20,3 +20,4 @@ f_name = "kennedy"
 s_name = "karuri"
 full_name = f_name + s_name
 print(full_name)
+#into a string
