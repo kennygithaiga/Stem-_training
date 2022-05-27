@@ -37,3 +37,6 @@ accessing items
 all keys
 all values
 checking if keys exists
+read in file 
+write in files
+append in files
