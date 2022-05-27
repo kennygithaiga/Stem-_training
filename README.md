@@ -17,3 +17,22 @@ lists
 indexes
 strings at list#
 nested lists(matrixes)
+##day 5
+strings
+their functions
+multiple line strings
+strings removes spaces between words
+counting letters in strings
+for lops with lists
+##day 6
+lists can store data
+nested lists
+strings can also be indexed as lists
+srings can  be readdressed
+lists manupulation
+##day 7
+dictionaries
+accessing items
+all keys
+all values
+checking if keys exists
