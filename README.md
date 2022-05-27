@@ -42,4 +42,9 @@ write in files
 append in files
 ## day 8
 object oriented programming
+definind a class and its attributes
+creating instances(objects) of a class
+class methods(functions belonging to a class)
+inheritance $ polymorphism
+method overriding
 
