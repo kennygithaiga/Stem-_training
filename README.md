@@ -30,6 +30,7 @@ nested lists
 strings can also be indexed as lists
 srings can  be readdressed
 lists manupulation
+range
 ##day 7
 dictionaries
 accessing items
