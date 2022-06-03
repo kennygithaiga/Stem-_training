@@ -1,8 +1,10 @@
 from tkinter import *
 
+from flask import stream_with_context
+
 root =Tk()
 # creating a text field
-e1=Entry(root,width=50,bg="white",fg="red")
+e1=Entry(root,width=50,bg="orange",fg="green")
 e1.pack()
 e1.insert(0,"enter first no")
 
@@ -14,6 +16,9 @@ e2.insert(0,"enter second no")
 
 # create a task function
 def myclick():
+    str_= e.get()
+    if"*"in srt_:
+
     f_no=float(e1.get())
     s_no=float(e2.get())
     sub=f_no-s_no
