@@ -56,5 +56,16 @@ inheriting
 calendars
 math functions
 modules
+## day 11 
+getting text input
+## day12
+exceptions
+else
+finally
+## day 13
+game development with python
+## day 14
+
+
 
 
