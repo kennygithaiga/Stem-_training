@@ -65,6 +65,11 @@ finally
 ## day 13
 game development with python
 ## day 14
+creating functions 
+## day 15
+IOT
+microprocessors
+introduction to robotics
 
 
 
