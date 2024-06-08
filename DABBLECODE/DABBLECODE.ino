@@ -1,9 +1,5 @@
-/* 
-   Gamepad module provides three different mode namely Digital, JoyStick and Accelerometer.
- 
-   Explore more on: https://thestempedia.com/docs/dabble/game-pad-module/
-    Modified by GM.
-*/
+    
+
 #define CUSTOM_SETTINGS
 #define INCLUDE_GAMEPAD_MODULE
 #include <DabbleESP32.h>
